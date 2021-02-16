@@ -1,5 +1,5 @@
 
-# Collections Assessmenet EDA Notebook
+# Collections Assessment EDA Notebook
 
 A notebook for exploratory analysis of archival collections assessment data using Pandas.
 
