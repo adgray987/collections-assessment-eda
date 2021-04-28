@@ -1,7 +1,7 @@
 
-# Collections Assessment EDA Notebook
+# Collections Assessment EDA
 
-A notebook for exploratory analysis of archival collections assessment data using Pandas.
+Notebooks for exploratory analysis of archival collections assessment data using Pandas.
 
 ## Explanation
 Assessments can hold valuable data about collections that can be [leveraged in different contexts](https://www.oclc.org/content/dam/research/publications/library/2011/2011-07.pdf) (strategic planning, surfacing hidden collections, etc.). This notebook uses basic Pandas functionality to clean and do an exploratory analysis of assessment data from an ArchivesSpace Assessment record list report, and to answer a few example questions about a fictional repository:
